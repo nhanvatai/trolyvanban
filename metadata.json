@@ -1,0 +1,5 @@
+{
+  "name": "Trợ lý Soạn thảo Văn bản Hành chính 25-9",
+  "description": "Một ứng dụng React giúp soạn thảo văn bản hành chính Việt Nam theo đúng thể thức của Nghị định 30/2020/NĐ-CP, sử dụng AI để tinh chỉnh nội dung.",
+  "requestFramePermissions": []
+}
